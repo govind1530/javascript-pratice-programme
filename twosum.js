@@ -45,7 +45,7 @@ let target=9;
 
 
 let numbers = [2,7,11,15];
-let target=9;
+//let target=9;
     let comp=[];
     let i=0
     let j=numbers.length-1;
