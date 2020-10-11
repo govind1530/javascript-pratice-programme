@@ -6,6 +6,7 @@ for(let i=0;i<length;i++){
     bestBuy=Math.min(bestBuy,stock[i]);
     profit=Math.max(profit,stock[i]-bestBuy);
 }
+console.log('best stock',bestBuy,'profit',profit)
 return profit;
 }
 
